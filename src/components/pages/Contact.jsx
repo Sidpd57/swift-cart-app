@@ -149,7 +149,6 @@ function Contact() {
       </div>
     </div>
   </div>
-  <hr class="mt-6" />
 </div>
     )
 }
