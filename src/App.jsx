@@ -1,10 +1,10 @@
-import {Header, Footer, Login, SignUp, Contact,Home} from './components/index'
+import {Header, Footer, Product} from './components/index'
 function App() {
 
   return (
     <>
       <Header/>
-      <Home/>
+      <Product/>
       <Footer/>
     </>
   )
