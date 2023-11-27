@@ -8,5 +8,6 @@ import Product from "./pages/Product"
 import Checkout from "./pages/Checkout"
 import Sidebar from "./layouts/Sidebar"
 import Products from "./pages/Products"
+import Card from "./layouts/Card"
 
-export { Header, Footer, Contact, Login, SignUp,Home, Product, Checkout, Sidebar, Products}
+export { Header, Footer, Contact, Login, SignUp,Home, Product, Checkout, Sidebar, Products, Card}
