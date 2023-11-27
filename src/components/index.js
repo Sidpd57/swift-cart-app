@@ -7,5 +7,6 @@ import Home from "./pages/Home"
 import Product from "./pages/Product"
 import Checkout from "./pages/Checkout"
 import Sidebar from "./layouts/Sidebar"
+import Products from "./pages/Products"
 
-export { Header, Footer, Contact, Login, SignUp,Home, Product, Checkout, Sidebar}
+export { Header, Footer, Contact, Login, SignUp,Home, Product, Checkout, Sidebar, Products}
