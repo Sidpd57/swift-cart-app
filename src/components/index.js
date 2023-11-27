@@ -5,5 +5,6 @@ import SignUp from "./pages/SignUp"
 import Contact from "./pages/Contact"
 import Home from "./pages/Home"
 import Product from "./pages/Product"
+import Checkout from "./pages/Checkout"
 
-export { Header, Footer, Contact, Login, SignUp,Home, Product}
+export { Header, Footer, Contact, Login, SignUp,Home, Product, Checkout}
